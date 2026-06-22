@@ -10,9 +10,6 @@
 
 <br>
 
-```bash
-piyush@dev:~$ cat about_me.md
-```
 
 > 🎓 Final-year **B.Tech CSE** student at K.K. College of Engineering and Management, Dhanbad, Jharkhand (2022–2026)
 > 💻 Strong foundation in **DSA, DBMS, SQL** and full-stack development with the **MERN** stack
@@ -25,9 +22,7 @@ piyush@dev:~$ cat about_me.md
 
 ## ⚡ &nbsp;Experience
 
-```bash
-piyush@dev:~$ cat experience.log
-```
+
 
 <table>
 <tr>
@@ -60,9 +55,7 @@ piyush@dev:~$ cat experience.log
 
 ## 🛠️ &nbsp;Tech Stack
 
-```bash
-piyush@dev:~$ ls -la skills/
-```
+
 
 <div align="center">
 
@@ -102,9 +95,7 @@ piyush@dev:~$ ls -la skills/
 
 ## 📂 &nbsp;Featured Projects
 
-```bash
-piyush@dev:~$ ls -la projects/
-```
+
 
 <table>
 <tr>
@@ -150,9 +141,7 @@ A real-time collaborative code editor with live synchronization for teams.
 
 ## 📫 &nbsp;Connect With Me
 
-```bash
-piyush@dev:~$ cat contact.json
-```
+
 
 <div align="center">
 
