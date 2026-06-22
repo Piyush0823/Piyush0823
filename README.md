@@ -20,8 +20,7 @@
 > 💻 Strong foundation in **DSA, DBMS, SQL** and full-stack development with the **MERN** stack
 > 🤖 Hands-on experience building & deploying **Machine Learning** models on the cloud
 > 🌱 Currently sharpening skills in **React, Node.js, and Cloud (AWS)**
-> 🎯 Seeking **SDE / Data Science / Analytics internship** opportunities
-> 📍 Based in Dhanbad, Jharkhand, India
+
 
 <br>
 
