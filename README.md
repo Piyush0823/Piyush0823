@@ -229,19 +229,6 @@ Markdown        25 mins      ░░░░░░░░░░░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=30&section=header&animation=twinkling" width="100%"/>
 </div>
 
-## 🏆 &nbsp;Trophy Showcase
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Piyush0823&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=30&section=header&animation=twinkling" width="100%"/>
-</div>
 
 ## 🐍 &nbsp;Contribution Snake
 
