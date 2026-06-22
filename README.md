@@ -106,7 +106,7 @@ A web app that predicts the real-time market value of used cars.
 
 **Stack:** `Python` `Streamlit` `HTML` `CSS`
 
-📎 [View Repository →](https://github.com/Piyush0823)
+📎 [View Repository →](https://github.com/Piyush0823/carpricepredictor)
 
 </td>
 <td width="50%" valign="top">
@@ -118,7 +118,7 @@ A real-time collaborative code editor with live synchronization for teams.
 
 **Stack:** `JavaScript` `React` `Node.js` `WebSockets`
 
-📎 [View Repository →](https://github.com/Piyush0823)
+📎 [View Repository →](https://github.com/Piyush0823/CollabCodeEditor)
 
 </td>
 </tr>
