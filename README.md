@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=PIYUSH%20VERMA&fontSize=70&fontColor=B47CFF&fontAlignY=35&desc=Final-Year%20CSE%20%7C%20Aspiring%20SDE%20%2F%20Data%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:000000&height=260&section=header&text=PIYUSH%20VERMA&fontSize=70&fontColor=00FF41&fontAlignY=35&desc=Final-Year%20CSE%20%7C%20Aspiring%20SDE%20%2F%20Data%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A5CFF&background=0D111700&center=true&vCenter=true&width=700&lines=git+clone+piyush0823.dev;Building+full-stack+%26+ML-powered+apps+%E2%9A%A1;Open+to+SDE+%2F+Data+internships+%F0%9F%9A%80;console.log(%22Let's+build+something%22)%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=root%40piyush%3A~%23+whoami;Building+full-stack+%26+ML-powered+apps...;Open+to+SDE+%2F+Data+internships;%5BACCESS+GRANTED%5D" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Piyush0823&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Piyush0823?label=Followers&style=for-the-badge&color=6a5acd&labelColor=0d1117" alt="Followers"/>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-7B68EE?style=for-the-badge&labelColor=0d1117" alt="Open to Work"/>
+<img src="https://komarev.com/ghpvc/?username=Piyush0823&label=PROFILE%20VIEWS&color=00FF41&style=for-the-badge&labelColor=000000" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Piyush0823?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000" alt="Followers"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF41?style=for-the-badge&labelColor=000000" alt="Open to Work"/>
 
 </div>
 
@@ -20,17 +20,19 @@
 <tr>
 <td>
 
-```yaml
-const piyush = {
-    role: "Final-Year B.Tech CSE Student",
-    college: "K.K. College of Engineering & Management, Dhanbad",
-    duration: "2022 - 2026",
-    location: "Jharkhand, India 🇮🇳",
-    stack: ["MERN", "Python", "ML/AI", "AWS", "SQL"],
-    currentFocus: ["React", "Node.js", "Cloud (AWS)"],
-    lookingFor: "SDE / Data Science / Analytics Internship",
-    funFact: "I debug with println() and I'm not ashamed 😄"
-};
+```bash
+$ cat profile.json
+{
+  "role"        : "Final-Year B.Tech CSE Student",
+  "college"     : "K.K. College of Engineering & Management, Dhanbad",
+  "duration"    : "2022 - 2026",
+  "location"    : "Jharkhand, India [IN]",
+  "stack"       : ["MERN", "Python", "ML/AI", "AWS", "SQL"],
+  "currentFocus": ["React", "Node.js", "Cloud (AWS)"],
+  "lookingFor"  : "SDE / Data Science / Analytics Internship",
+  "uptime"      : "99.9% caffeinated"
+}
+$ _
 ```
 
 </td>
@@ -41,7 +43,7 @@ const piyush = {
 
 <div align="center">
 
-## ⚡ Experience Timeline
+## ⚡ EXPERIENCE LOG
 
 </div>
 
@@ -51,9 +53,9 @@ const piyush = {
 
 <div align="left">
 
-### 🟣 Data Science Trainee
+### &gt;_ Data Science Trainee
 **`Ardent Computech Pvt. Ltd.`** &nbsp;·&nbsp; Kolkata, India
-<img src="https://img.shields.io/badge/Jul_2025-Aug_2025-302b63?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Jul_2025-Aug_2025-0d1f0d?style=flat-square&labelColor=000000&color=00FF41"/>
 
 - 🧠 Built, trained & deployed **ML models** using Scikit-Learn, PyTorch & TensorFlow on real-world datasets
 - ☁️ Exposed models via **REST APIs**, deployed on **AWS** for scalability
@@ -66,9 +68,9 @@ const piyush = {
 
 <div align="left">
 
-### 🔵 Software Trainee
+### &gt;_ Software Trainee
 **`GeeksforGeeks.com`** &nbsp;·&nbsp; Remote
-<img src="https://img.shields.io/badge/Jun_2025-Oct_2025-1a1a4e?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Jun_2025-Oct_2025-0d1f0d?style=flat-square&labelColor=000000&color=00FF41"/>
 
 - 💻 Developed full-stack apps using the **MERN stack** (MongoDB, Express, React, Node)
 - 🎨 Built responsive front-end UIs and scalable back-end architecture
@@ -84,39 +86,39 @@ const piyush = {
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## 🛠️ TECH STACK
 
 <br>
 
 **🧩 Languages & Core**
 <br>
-<img src="https://img.shields.io/badge/-C++-1a1a3d?style=for-the-badge&logo=cplusplus&logoColor=B47CFF"/>
-<img src="https://img.shields.io/badge/-Python-1a1a3d?style=for-the-badge&logo=python&logoColor=B47CFF"/>
-<img src="https://img.shields.io/badge/-Java-1a1a3d?style=for-the-badge&logo=openjdk&logoColor=B47CFF"/>
-<img src="https://img.shields.io/badge/-SQL-1a1a3d?style=for-the-badge&logo=postgresql&logoColor=B47CFF"/>
+<img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41"/>
 
 **🌐 Web Development**
 <br>
-<img src="https://img.shields.io/badge/-HTML5-1a1a3d?style=for-the-badge&logo=html5&logoColor=8A5CFF"/>
-<img src="https://img.shields.io/badge/-CSS3-1a1a3d?style=for-the-badge&logo=css3&logoColor=8A5CFF"/>
-<img src="https://img.shields.io/badge/-JavaScript-1a1a3d?style=for-the-badge&logo=javascript&logoColor=8A5CFF"/>
-<img src="https://img.shields.io/badge/-React-1a1a3d?style=for-the-badge&logo=react&logoColor=8A5CFF"/>
-<img src="https://img.shields.io/badge/-Node.js-1a1a3d?style=for-the-badge&logo=node.js&logoColor=8A5CFF"/>
-<img src="https://img.shields.io/badge/-MongoDB-1a1a3d?style=for-the-badge&logo=mongodb&logoColor=8A5CFF"/>
+<img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41"/>
 
 **🤖 Data Science & ML**
 <br>
-<img src="https://img.shields.io/badge/-scikit--learn-1a1a3d?style=for-the-badge&logo=scikitlearn&logoColor=6A5ACD"/>
-<img src="https://img.shields.io/badge/-PyTorch-1a1a3d?style=for-the-badge&logo=pytorch&logoColor=6A5ACD"/>
-<img src="https://img.shields.io/badge/-TensorFlow-1a1a3d?style=for-the-badge&logo=tensorflow&logoColor=6A5ACD"/>
-<img src="https://img.shields.io/badge/-Power%20BI-1a1a3d?style=for-the-badge&logo=powerbi&logoColor=6A5ACD"/>
+<img src="https://img.shields.io/badge/-scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=00FF41"/>
 
 **🧰 Tools & Platforms**
 <br>
-<img src="https://img.shields.io/badge/-AWS-1a1a3d?style=for-the-badge&logo=amazonaws&logoColor=9370DB"/>
-<img src="https://img.shields.io/badge/-VS%20Code-1a1a3d?style=for-the-badge&logo=visualstudiocode&logoColor=9370DB"/>
-<img src="https://img.shields.io/badge/-Git-1a1a3d?style=for-the-badge&logo=git&logoColor=9370DB"/>
-<img src="https://img.shields.io/badge/-Eclipse-1a1a3d?style=for-the-badge&logo=eclipseide&logoColor=9370DB"/>
+<img src="https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/-Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=00FF41"/>
 
 </div>
 
@@ -124,22 +126,22 @@ const piyush = {
 
 <div align="center">
 
-## 📈 Proficiency Levels
+## 📈 SYSTEM PROFICIENCY
 
 </div>
 
 <table width="100%">
 <tr><td width="50%" valign="top">
 
-**Python** `████████████████░░` 85%
-**JavaScript / React** `███████████████░░░` 80%
-**C++ / DSA** `███████████████░░░` 78%
+**Python** &nbsp; `[████████████████░░]` 85%
+**JavaScript / React** &nbsp; `[███████████████░░░]` 80%
+**C++ / DSA** &nbsp; `[███████████████░░░]` 78%
 
 </td><td width="50%" valign="top">
 
-**SQL / Databases** `██████████████░░░░` 72%
-**Machine Learning** `█████████████░░░░░` 68%
-**AWS / Cloud** `███████████░░░░░░░` 60%
+**SQL / Databases** &nbsp; `[██████████████░░░░]` 72%
+**Machine Learning** &nbsp; `[█████████████░░░░░]` 68%
+**AWS / Cloud** &nbsp; `[███████████░░░░░░░]` 60%
 
 </td></tr>
 </table>
@@ -148,7 +150,7 @@ const piyush = {
 
 <div align="center">
 
-## 📂 Featured Projects
+## 📂 FEATURED PROJECTS
 
 </div>
 
@@ -183,16 +185,16 @@ A real-time collaborative code editor with live synchronization for teams.
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Piyush0823&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B47CFF&icon_color=8A5CFF&text_color=c9d1d9&ring_color=8A5CFF" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0823&theme=radical&hide_border=true&background=0D1117&ring=8A5CFF&fire=B47CFF&currStreakLabel=B47CFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Piyush0823&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=baffc9&ring_color=00FF41" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush0823&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0823&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B47CFF&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush0823&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00FF41&text_color=baffc9&langs_count=8" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush0823&theme=react-dark&hide_border=true&bg_color=0D1117&color=B47CFF&line=8A5CFF&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush0823&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=ffffff" width="95%"/>
 
 </div>
 
@@ -200,7 +202,7 @@ A real-time collaborative code editor with live synchronization for teams.
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🐍 CONTRIBUTION SNAKE
 
 <img src="https://raw.githubusercontent.com/Piyush0823/Piyush0823/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
@@ -212,15 +214,15 @@ A real-time collaborative code editor with live synchronization for teams.
 
 <div align="center">
 
-## 📫 Let's Connect
+## 📫 CONNECT
 
-<a href="https://github.com/Piyush0823"><img src="https://img.shields.io/badge/-Piyush0823-1a1a3d?style=for-the-badge&logo=github&logoColor=B47CFF"/></a>
-<a href="https://linkedin.com/in/piyushverma4355"><img src="https://img.shields.io/badge/-piyushverma4355-1a1a3d?style=for-the-badge&logo=linkedin&logoColor=8A5CFF"/></a>
-<a href="mailto:piyushverma4355@gmail.com"><img src="https://img.shields.io/badge/-piyushverma4355%40gmail.com-1a1a3d?style=for-the-badge&logo=gmail&logoColor=9370DB"/></a>
+<a href="https://github.com/Piyush0823"><img src="https://img.shields.io/badge/-Piyush0823-000000?style=for-the-badge&logo=github&logoColor=00FF41"/></a>
+<a href="https://linkedin.com/in/piyushverma4355"><img src="https://img.shields.io/badge/-piyushverma4355-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/></a>
+<a href="mailto:piyushverma4355@gmail.com"><img src="https://img.shields.io/badge/-piyushverma4355%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:000000&height=120&section=footer" width="100%"/>
 
 <sub>⭐ <i>If you found my profile interesting, consider starring my repos!</i> ⭐</sub>
 
